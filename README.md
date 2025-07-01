@@ -1,4 +1,6 @@
 🔍 Netflix EDA Case Study
+
+
 In this project, I conducted a comprehensive exploratory data analysis (EDA) on a Netflix content dataset (8,800+ titles) using Python, pandas, seaborn, and Matplotlib. After performing detailed data cleaning, I normalized nested columns such as cast, country, and listed_in, handled missing values using contextual imputation strategies, and engineered new time-based features. I segmented the analysis across three dimensions: global trends, the U.S. market, and Indian content.
 Key findings included:
 - A global 70:30 split between Movies and TV Shows
